@@ -1,4 +1,4 @@
-# Welcome to the Qodly!
+# Welcome to Qodly!
 
 Qodly is a hybrid low-code platform for your business web application.
 
